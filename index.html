@@ -1,60 +1,21 @@
-<!DOCTYPE html>
 <html>
-	<html lang="en">
 	<head>
-
-		<!-- Meta -->
-		<title>Wir Werden Was Wir Sehen</title>
-		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-		<meta content="utf-8" http-equiv="encoding">
-		<meta charset="utf-8">
-		<link rel="icon" type="image/png" href="favicon.png">
-
-		<!-- Schema.org markup for Google+ -->
-		<meta itemprop="name" content="Wir Werden Was Wir Sehen">
-		<meta itemprop="description" content="Ein Spiel über Nachrichten, die sich im Teufels-Kreis drehen">
-		<meta itemprop="image" content="http://ncase.me/wbwwb-de/social/thumbnail.png">
-
-		<!-- Twitter Card data -->
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@ncasenmare">
-		<meta name="twitter:title" content="Wir Werden Was Wir Sehen">
-		<meta name="twitter:description" content="Ein Spiel über Nachrichten, die sich im Teufels-Kreis drehen">
-		<meta name="twitter:creator" content="@ncasenmare">
-		<meta name="twitter:image" content="http://ncase.me/wbwwb-de/social/thumbnail.png">
-
-		<!-- Open Graph data -->
-		<meta property="og:title" content="Wir Werden Was Wir Sehen">
-		<meta property="og:type" content="website">
-		<meta property="og:url" content="http://ncase.me/wbwwb-de/">
-		<meta property="og:image" content="http://ncase.me/wbwwb-de/social/thumbnail.png">
-		<meta property="og:description" content="Ein Spiel über Nachrichten, die sich im Teufels-Kreis drehen">
-
-		<!-- Styles -->
 		<link rel="stylesheet" href="css/game.css">
-		
 	</head>
 	<body>
-		<div id="stage">
-			<div id="credits">
-				<a target="_blank" href="http://ncase.itch.io/wbwwb">Original-Version (English)</a>
-				von
-				<a target="_blank" href="http://ncase.me/">Nicky Case</a> | Übersetzt von
-				<a target="_blank" href="http://stefan-lesser.com/">Stefan Lesser</a>
-			</div>
-		</div>
+		<div id="stage"></div>
 		<div id="modal_shade"></div>
 		<div class="overlay" id="warning">
-			<div>oh nein</div>
+			<div>oh noes</div>
 			<div>
-			dein Browser unterstützt kein WebGL!<br>
-			Bitte versuche es mit einem anderen Browser oder Computer.
+			your browser doesn't support webgl.<br>
+			try a different browser or computer?
 			</div>
 		</div>
 		<div class="overlay" id="paused">
-			<div>pause</div>
+			<div>paused</div>
 			<div>
-			zum weiterspielen klicken
+			click anywhere to resume
 			</div>
 		</div>
 	</body>
@@ -135,6 +96,6 @@ window.onload = function(){
 		document.getElementById("warning").style.display = "block";
 	}
 };
-window.SHARE_TEXT = "Ein Spiel über Nachrichten, die sich im Teufels-Kreis drehen. WIR WERDEN WAS WIR SEHEN:";
-window.SHARE_URL = "http://ncase.me/wbwwb-de/";
+window.SHARE_TEXT = "I just played this really weird game about the news. WE BECOME WHAT WE BEHOLD:"
+window.SHARE_URL = "https://ncase.itch.io/wbwwb";
 </script>
