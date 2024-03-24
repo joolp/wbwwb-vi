@@ -5,44 +5,44 @@
 var textStrings_VI = {
 	// Act 1
 	"niceHat": "Ô NÓN ĐẸP ĐẤY",
-	"outtaHere": "thôi biến đi chỗ khác đi",
+	"outtaHere": "thôi biến chỗ khác đi",
 	"getARoom": "GỚM QUÁ, VỀ NHÀ MÀ LÀM",
-	"notCoolAnymore": "thôi kệ đi mũ hết ngầu rồi",
+	"notCoolAnymore": "thôi mũ hết ngầu rồi",
 	"tvOnTv": "MỘT CHIẾC TV... TRÊN TV!",
 	"cricky": "DẾ NHỎ DỄ THƯƠNG <3",
-	"tooManyCrickets": "được rồi nhiều dế quá rồi",
+	"tooManyCrickets": "được rồi nhiều dế quá",
 	"normalPeep": "chỉ là một người bình thường",
 	"normalPeeps": "chỉ là một đám người bình thường",
 	"wowNothing": "ÔI TRỜI, KHÔNG CÓ GÌ HẾT",
 
 	// Act 2
 	"crazySquareAttacks": "HÌNH VUÔNG NỔI ĐIÊN TẤN CÔNG",
-	"justMissed": "uiiiiya trật mất rồi",
-	"somethingInteresting": "(bạn phải chụp lúc họ đang làm *gì đó* thú vị chứ...)",
-	"whoIsScreaming": "(bạn phải chụp người đang hét vào mắt họ chứ)",
+	"justMissed": "ôiiii trật mất rồi",
+	"somethingInteresting": "(phải chụp lúc họ làm *gì đó* thú vị chứ...)",
+	"whoIsScreaming": "(phải chụp người đang la vào mặt họ chứ)",
 	"circleFearsSquares": "HÌNH TRÒN SỢ HÌNH VUÔNG",
-	"whoScaresThem": "(bạn phải chụp *người* làm họ sợ chứ)",
-	"areTheyScared": "(bạn phải chụp họ lúc *đang* bị hình vuông đe dọa)", // not used
+	"whoScaresThem": "(phải chụp *người* làm họ sợ chứ)",
+	"areTheyScared": "(phải chụp lúc họ *đang* bị hình vuông dọa chứ)", // not used
 	"squaresSnubCircles": "HÌNH VUÔNG KHINH HÌNH TRÒN",
-	"areTheySnubbed": "(bạn phải chụp họ *trong khi* khinh thường hình tròn)", // not used
+	"areTheySnubbed": "(phải chụp họ lúc *đang* khinh hình tròn chứ)", // not used
 	"everyoneHates": "MỌI NGƯỜI ĐỀU GHÉT LẪN NHAU!!1!",
 	"almostEveryoneHates": "GẦN NHƯ AI CŨNG GHÉT LẪN NHAU...",
 	"squaresHateCircles": "HÌNH VUÔNG GHÉT HÌNH TRÒN",
 	"circlesHateSquares": "HÌNH TRÒN GHÉT HÌNH VUÔNG",
-	"areTheyYelling": "(bạn phải chụp họ lúc *đang hét* vào mặt nhau)", // not used
+	"areTheyYelling": "(phải chụp lúc họ *đang hét* vào mặt nhau chứ)", // not used
 	"nerdsNow": "bọn trẻ trâu này làm gì đây",
 	"schockedPeep": "sao người này lại sốc vậy nhỉ?",
 	"whatever": "sao cũng được",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "mũ có còn ngầu nữa đâu, bạn chưa biết hả?",
-	"beScared": "HÃY SỢ HÃI. HÃY NỖI GIẬN.",
+	"coolNoMore": "mũ hết ngầu rồi, chưa biết hả?",
+	"beScared": "HÃY SỢ HÃI. HÃY NỔI GIẬN.",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"ai thèm xem *mọi người sống hòa hợp* chứ?",
+		"ai thèm xem *mọi người hòa thuận* chứ?",
 		"hòa bình nhàm chán. bạo lực lên ngôi.",
 		//"peace is boring. conflict gets clicks." ,
 		"câu truyện nào cũng cần có xung đột mà, nên...",
@@ -67,13 +67,13 @@ var textStrings_VI = {
 	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "ngàn lời cảm ơn với những người chơi thử:",
+	"manyThanks": "đa tạ những người chơi thử:",
 
 	// (credits000[3,4,5,6].png)
 	"patreonSupporters": "và những người ủng hộ tôi trên patreon:",
 
 	// (credits0007.png)
-	"lastButNotLeast": "và cuối cùng nhưng không kém phần quan trọng,",
+	"lastButNotLeast": "cuối cùng nhưng không kém phần quan trọng,",
 
 	// (credits0008.png)
 	"thankYouForPlaying": "cảm ơn BẠN vì đã chơi!",
@@ -82,9 +82,9 @@ var textStrings_VI = {
 	"playButton": "CHƠI",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "xem những dự án khác của tôi",
+	"otherWorkButton": "những dự án khác của tôi",
 	"buyCoffeeButton": "mua cho tôi một tách cà phê",
-	"replayButton": "chịu đựng lại đống hỗn độn này",
+	"replayButton": "chịu đựng thêm lần nữa",
 
 	// (logo.png) Post Credits
 	"logoWBWWB": "CHIA SẺ NỖI ĐAU:",
@@ -94,14 +94,14 @@ var textStrings_VI = {
 	"toBeContinued": "(còn nữa!)",
 
 	// (quote0002.png)
-	"WBWWB": "Chúng ta trở nên những gì ta thấy.",
-	"WSOTATOTSU": "Chúng ta định hình công cụ rồi công cụ định hình chúng ta.",
+	"WBWWB": "Ta trở thành thứ ta thấy.",
+	"WSOTATOTSU": "Ta định hình công cụ rồi công cụ định hình ta.",
 
 	// (quote0003.png)
 	"MarshallMcLuhan": "Marshall McLuhan",
 
 	// (quote0004.png)
-	"misatrributed": "(nhằm người)",
+	"misatrributed": "(để tên sai người)",
 };
 
 
