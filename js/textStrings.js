@@ -4,7 +4,7 @@
 
 var textStrings_VI = {
 	// Act 1
-	"niceHat": "Ô NÓN ĐẸP ĐẤY",
+	"niceHat": "Ô MŨ ĐẸP ĐẤY",
 	"outtaHere": "thôi biến chỗ khác đi",
 	"getARoom": "GỚM QUÁ, VỀ NHÀ MÀ LÀM",
 	"notCoolAnymore": "thôi mũ hết ngầu rồi",
